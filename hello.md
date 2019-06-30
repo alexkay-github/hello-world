@@ -92,4 +92,9 @@
 - merge 처럼 두 브랜치 합치기
 - 위험 할 수 있음
 
+<<<<<<< HEAD
 ### function 2
+=======
+
+### function 1
+>>>>>>> fuction 1 추가
