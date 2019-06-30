@@ -92,5 +92,5 @@
 - merge 처럼 두 브랜치 합치기
 - 위험 할 수 있음
 
-### function 1
+### function 2
 
