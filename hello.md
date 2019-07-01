@@ -118,13 +118,8 @@ git add
 - 위험 할 수 있음
 - 나누어진 브랜치를 여러개의 브랜치 없이 깔끔하게 하나의 라인으로 합침
 
-
-
-
 [www.keyflowpro.com](http://www.keyflowpro.com)
 
 <http://www.daum.net>
 
 ![다음 이미지](https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png)
-
-[Task_func]: 이것이 바로 태스크  
