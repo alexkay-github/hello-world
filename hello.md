@@ -124,5 +124,4 @@ git add
 
 ![다음 이미지](https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png)
 
-
 체리 픽은 무엇일까?
